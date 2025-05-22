@@ -1,3 +1,7 @@
+import HTMLData from './data/HTMLData';
+import JavascriptData from './data/JavascriptData';
+import ReactData from './data/ReactData';
+
 function App() {
 	return (
 		<>
@@ -5,6 +9,9 @@ function App() {
 			<h2>
 				<code>DevNotes</code>
 			</h2>
+			<HTMLData />
+			<JavascriptData />
+			<ReactData />
 		</>
 	);
 }
