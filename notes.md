@@ -1,6 +1,8 @@
 devnotes/
-├── public/
-├── src/
+
+<!-- ├── public/ -->
+<!-- ├── src/ -->
+
 │ ├── assets/ # Images, logos, icons if you use them
 │ ├── components/ # Your reusable UI components
 │ │ ├── CheatCard.jsx
